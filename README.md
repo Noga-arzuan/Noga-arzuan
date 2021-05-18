@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Noga-arzuan/Noga-arzuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My Web-Site
 - 🌱 I’m currently learning TypeScript
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nogaarzuan@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a crazy dog
--->
+
