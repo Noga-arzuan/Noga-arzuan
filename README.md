@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img align="right" alt="GIF" src="https://github.com/Npga-arzuan/Noga-arzuan/blob/main/code.mp4?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Npga-arzuan/Noga-arzuan/main/code.mp4?raw=true" width="500" height="320" />
  
 
 
