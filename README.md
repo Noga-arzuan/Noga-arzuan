@@ -1,4 +1,6 @@
 ### Hi there 👋
+ <img align="right" alt="GIF" src="https://github.com/Npga-arzuan/Noga-arzuan/blob/main/output_free (2).mp4?raw=true" width="500" height="320" />
+ 
 
 
 
