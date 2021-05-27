@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img align="right" alt="GIF" src="ping.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="undraw_my_files_swob.png?raw=true" width="500" height="320" />
  
 
 
